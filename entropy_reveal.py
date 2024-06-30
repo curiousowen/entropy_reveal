@@ -40,7 +40,7 @@ def evaluate_entropy(entropy_percentage):
         return "High entropy: Be concerned."
 
 def main():
-    print("Entropy Calculation Tool")
+    print("What Entropy do you have for me today!")
     
     file_path = input("Enter the path to the file: ").strip()
     
